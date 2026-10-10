@@ -2,7 +2,7 @@
 ## Introdution
 A 2D/3D Game Engine For Windows.
 Made with C++, C# and WPF.
-Basically it's still developing. :)
+Basically it's still developing :)
 ## Directory
-- [Introdution](#Introdution)
-- [License](#License)
+- [Introdution](#[Introdution])
+- [License](https://github.com/Chaoyueziji12/Harcho-Engine/blob/main/LICENSE)
