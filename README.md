@@ -1,6 +1,6 @@
 # Harcho-Engine
 ## Introdution
-A 2D Game Engine For Windows.
+A 3D Game Engine For Windows.
 Languages: C++, C#.
 ## Directory
 - [Introdution](#[Introdution])
